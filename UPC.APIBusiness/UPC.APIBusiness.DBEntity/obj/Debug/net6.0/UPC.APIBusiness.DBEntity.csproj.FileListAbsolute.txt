@@ -1,0 +1,12 @@
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\net6.0\UPC.APIBusiness.DBEntity.deps.json
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\net6.0\UPC.APIBusiness.DBEntity.dll
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\net6.0\UPC.APIBusiness.DBEntity.pdb
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\UPC.APIBusiness.DBEntity.csproj.AssemblyReference.cache
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\UPC.APIBusiness.DBEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\UPC.APIBusiness.DBEntity.AssemblyInfoInputs.cache
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\UPC.APIBusiness.DBEntity.AssemblyInfo.cs
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\UPC.APIBusiness.DBEntity.csproj.CoreCompileInputs.cache
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\UPC.APIBusiness.DBEntity.dll
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\refint\UPC.APIBusiness.DBEntity.dll
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\UPC.APIBusiness.DBEntity.pdb
+C:\Users\W11\Downloads\BE_Semana7\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\net6.0\ref\UPC.APIBusiness.DBEntity.dll
