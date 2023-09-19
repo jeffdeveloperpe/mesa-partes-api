@@ -1,12 +1,11 @@
-﻿using DBEntity;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using DBEntity;
 
 namespace DBContext
 {
     public interface IUserRepository
     {
-        List<EntityUser> GetUsers();
+        List<User> List();
+        User Get(int id);
     }
 }

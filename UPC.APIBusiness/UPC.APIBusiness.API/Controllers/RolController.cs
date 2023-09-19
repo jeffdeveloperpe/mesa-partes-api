@@ -28,7 +28,7 @@ public class RolController : Controller
   /// </summary>
   /// <returns></returns>
   [Produces("application/json")]
-  [OpenApiOperation("List")]
+  [OpenApiOperation("ListRol")]
   [AllowAnonymous]
   [HttpGet]
   [Route("list")]
